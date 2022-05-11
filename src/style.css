@@ -53,7 +53,7 @@
 
 .title {
   font-size: 30px;
-  color: rgba(69, 75, 83, 0.8);
+  color: rgba(53, 226, 37, 0.8);
   -webkit-text-stroke: 1px rgba(76, 85, 74, 0.8);
   -webkit-text-fill-color: rgba(44, 51, 59, 0.8);
 }
@@ -64,7 +64,7 @@
   padding: 5px;
   padding-left: 0;
   padding-bottom: 0;
-  background: #888888;
+  background: #f1ff27;
   border: 3px solid #222222;
   border-radius: 5px;
 }
@@ -85,7 +85,7 @@
   line-height: 40px;
   text-align: center;
   color: #ffffff;
-  background: #444444;
+  background: #4218b8;
   border-radius: 3px;
   cursor: pointer;
   -webkit-user-select: none;
@@ -97,11 +97,11 @@
 }
 
 .key:hover {
-  background: #79aa89;
+  background: #e66e1f;
 }
 
 .key.active {
-  background-color: #2cfd72;
+  background-color: #effd2c;
   border-radius: 50px;
 }
 
